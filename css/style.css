@@ -1,0 +1,30 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gray;
+    text-decoration: underline;
+}
+
+#head1 {
+    float: left;
+    display: block;
+}
+
+#head2 {
+    float: right;
+    display: block;
+}
+
+#bot1 {
+    display: block;
+    float: right;
+    
+}
+
+#bot2 {
+    display: block;
+    float: left;
+}
